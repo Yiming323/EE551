@@ -1,9 +1,9 @@
 # 2020F EE551-WS Final Project
 
-##Keywords
+## Keywords
 binary classification problem, data analysis, machine learning
 
-##Problem
+## Problem
  
 Location awareness is a key feature for many upcoming application scenarios, e.g., asset tracking, autonomous navigation or ambient assisted living. For indoor environments, ultra-wideband (UWB) technologies have been proposed due to the superior time-resolution. However, the environmental characteristic of the positioning site is complex and dynamic. The direct UWB signals might be obstructed, which is called non-line-of-sight (NLOS) case. NLOS propagation is the main error source of UWB ranging and positioning system.
 
@@ -25,7 +25,7 @@ Finally, we calculate the prediction accuracy and execution time of each algorit
 * Compare the prediction accuracy and execution time of each machine learning algorithm.
 
 
-##Appendix: Data source introduction
+## Appendix: Data source introduction
 
 Data source from here: https://github.com/ewine-project/UWB-LOS-NLOS-Data-Set
 
